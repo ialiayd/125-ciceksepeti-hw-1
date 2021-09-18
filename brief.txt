@@ -1,0 +1,25 @@
+# 2. Hafta Ödev
+
+Merhaba arkadaşlar bu haftaki ödevimizde sizden beklenen şu şekilde:
+
+- Figma tasarımımız var, bunu html olarak değil de javascript kullanarak koda dökmeniz bekleniyor. Tasarıma ek olarak sol tarafta side bir menü olacak. Bu menünün elemanları ise "cards" ve "form" olacak. Cards'a tıklandığı zaman ekranda sadece kartlar gözükecekken "form" a tıklandığı zaman sadece form gözükecek ekranda.
+
+- Tasarımdaki kart bilgilerini ise sizinle paylaşılmış olan Data'dan fetch yaparak elde edilmeniz beklenmekte. Kartların sayısı 10'u geçmeyecek ve her kartın title ve body kısmı fetch sonrasında gelen cevaptan alınacak. Her karta istediğiniz bir resim koymakta özgürsünüz.
+
+- Form doldurulup submit edildiğinde bu bilgilerin console.log ile yazdırılması beklenmekte.
+
+## Olursa İyi Olur Dediklerimiz
+
+- Yan menü açılır kapılır yapılabilir.
+
+- Form'dan alınan bilgiler console.log dışında bir modal ile birlikte ekrana yazdırılabilir.
+
+## Kaynaklar
+
+- Tasarım:  https://www.figma.com/file/wXzYCLC9ZhgSQsHRRVn13P/Untitled?node-id=0:1
+
+- Data: https://jsonplaceholder.typicode.com/posts
+
+## Ödev Son Günü
+
+18.09.2021 Cumartesi saat 10:00'a kadar yaptığınız proje Github Classroom'a gönderilmeli. Github Classroom linki ise size bu hafta gönderilecek.
